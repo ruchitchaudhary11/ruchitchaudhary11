@@ -28,3 +28,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchitchaudhary11&show_icons=true&locale=en" alt="ruchitchaudhary11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchitchaudhary11&" alt="ruchitchaudhary11" /></p>
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building Projects • Solving Problems • Learning Every Day
+
+</div>
